@@ -288,3 +288,120 @@ cd ScheduleMeetingProject
 notepad index.html
 notepad schedule.css
 notepad schedule_meeting.html
+git sttus
+git status
+git add .
+git commit -m "all" .
+git merge --abort
+git status
+git pull
+git pull origin main -unrelated-histories
+git pull origin main --allow-unrelated-histories
+git fetch
+git status
+git add .
+git commit -m "fixing issues" .
+git status
+git commit -m "fix" .
+git status
+git commit -m "fix" .
+git add .
+git commit -m "fix" .
+git status
+git merge --abort
+git status
+git pull
+git pull origin main --allow-unrelated-histories
+git status
+git pull origin main --allow-unrelated-histories
+git add .
+git status
+git commit -m "fix" .
+git pull origin main --allow-unrelated-histories
+git merge --abort
+git commit -m "fix" .
+git commit -m "fix" .
+git status
+git pull
+git pull origin main --allow-unrelated-histories
+git commit -m "fix" .
+git merge --abort
+git fetch
+git pull
+git pull origin main --allow-unrelated-histories
+git pull origin main --allow-unrelated-histories
+git pull
+git merge -abort
+git merge -=abort
+git merge --abort
+git pull
+git pull
+git push
+dir
+git fetch
+git status
+git restore Lessone1Assignment
+git rm --cached
+git rm --cached Lesson1Assignement
+git pull
+git status
+git merge --abort
+git add .
+ git rm --cached Lesson1Assignment
+ git rm --cached Lesson1Assignment -f
+git status
+git add .
+git commit -m "all" .
+git status
+git pull
+git push origin main
+git remote -v
+git ?
+git rm
+git pull
+cd\\
+cd..
+cd..
+cd \
+cd ..
+git pull'
+
+
+git pull
+dir
+cd Source-repository
+git pull
+git pull
+git fetch
+git pull
+git ls-remote --heads origin
+git pull
+git branch --unset -upstream
+git branch --unset-upstream
+git branch --set-upstream-to=origin/Lesson1Assignment
+git push
+git push --set-upstream origin main
+git push
+git pull
+git status'
+git status
+
+
+
+
+!q
+
+?
+EXIT
+
+[1;7q
+
+
+
+
+dwe
+da
+ser
+es
+!q.
+
