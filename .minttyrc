@@ -1,1 +1,7 @@
 FontHeight=14
+BackgroundColour=0,0,0
+FontWeight=700
+FontIsBold=yes
+ForegroundColour=255,255,0
+Locale=C
+Charset=UTF-8
