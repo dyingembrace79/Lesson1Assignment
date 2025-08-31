@@ -405,3 +405,15 @@ ser
 es
 !q.
 
+GIT STATUS
+git status
+git add .
+git commit -m " all"  .
+git push
+git status
+dir
+cd ..
+dir
+cd online-food-ordering-app
+dir
+git pull
